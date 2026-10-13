@@ -1,0 +1,24 @@
+body{
+    background-color:cadetblue;
+    background-image: url(https://cdn.nba.com/manage/2026/10/GettyImages-2299058677-2-scaled.jpg);
+    
+    
+}
+.container {
+    border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+background: #00c1ff;
+background: linear-gradient(90deg,#00c1ff 0%, #005cff 80%);
+background: -webkit-linear-gradient(90deg,#00c1ff 0%, #005cff 80%);
+background: -moz-linear-gradient(90deg,#00c1ff 0%, #005cff 80%);
+}
+
+.row {
+    gap: 5px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+    
+}
